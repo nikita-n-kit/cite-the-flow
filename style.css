@@ -71,7 +71,7 @@ header {
 }
 
 .headerLine {
-	padding: 0 0 16px;
+	padding: 0 0 17px;
    
     position: relative;
     overflow: hidden;
@@ -206,7 +206,7 @@ header {
 	position: relative;
 	height: 459px;
 	width: 300px;
-	background-color: white;
+	background-color: transparent;
 	margin-left: 20px;
 }
 
@@ -241,6 +241,8 @@ header {
 	width: 1280px;
 	margin: 0 auto;	
 	position: relative;
+	margin-top: -4px;
+	background-color: white;
 
 }
 

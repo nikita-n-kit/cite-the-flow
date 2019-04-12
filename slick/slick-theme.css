@@ -107,6 +107,7 @@
 .slick-next:before
 {
     content: '→';
+    
 }
 [dir='rtl'] .slick-next:before
 {
